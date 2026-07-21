@@ -52,6 +52,6 @@ public class Main {
 
         }
 
-        scanner.close();
+        input.close();
     }
 }
